@@ -174,4 +174,16 @@ h1 {
     .app-container{
         width: auto;
     }
+    .apps,
+    .appss,
+    .appsss,
+    .appssss,
+    .appsssss {
+        height: auto;
+        padding-top: 50px; /* Add padding to prevent overlapping */
+    }
+
+    section {
+        height: auto;
+    }
 }
